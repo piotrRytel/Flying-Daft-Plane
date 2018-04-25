@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Piotr/Documents/GitHub/Flappy-Daft-Plane/Assets/Flappy_plane.unity
+  isLoaded: 1
+  isActive: 1
